@@ -54,7 +54,7 @@
     "@zerollup/ts-transform-paths": "^1.7.11",
     "coveralls": "^3.0.9",
     "husky": "^4.2.1",
-    "kpo": "^0.11.1",
+    "kpo": "^0.13.0",
     "lerna": "^3.20.2",
     "onchange": "^6.1.0",
     "typescript": "^3.7.5"
